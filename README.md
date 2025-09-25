@@ -14,3 +14,7 @@ Proper planning is the backbone of every successful project.
 With this repository, all planning documents, ideas, and timelines will be stored in one place,  
 making collaboration and execution smooth and efficient.
 This repository contains my project planning documents.
+## Next Steps  
+- Add a detailed project timeline  
+- Document resources and requirements  
+- Track progress regularly
